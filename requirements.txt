@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pymupdf
+paddleocr
+faiss-cpu
+langchain
+sentence-transformers
+python-multipart
